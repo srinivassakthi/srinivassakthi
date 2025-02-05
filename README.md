@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinivassakthi
-- 👀 I’m interested in AGRIGIS apply GIS application in real world
-- 🌱 I’m currently learning geopython 
+- 👀 I’m interested in creating GIS application in real world
+- 🌱 I’m a master's student
 - 💞️ I’m looking to collaborate on a new application development for AGRIGIS
 - 📫 How to reach me in gmail srinivasdigisailor@gmail.com
 - 😄 Pronouns: Achieve a unit economics in agriculture
