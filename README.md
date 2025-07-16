@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating GIS application in real world
 - 🌱 I’m a master's student
 - 💞️ I’m looking to collaborate on a new application development for GIS
-- 📫 How to reach me in gmail srinivasdigisailor@gmail.com
+- 📫 How to reach me in gmail srinivasgeo0710@gmail.com
 - 😄 Pronouns: Achieve a unit economics in agriculture
 - ⚡ Fun fact: unit economics is difficult thing
 
