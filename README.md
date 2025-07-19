@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @srinivassakthi
+- 👋 Hi, I’m @srinivas
 - 👀 I’m interested in creating GIS application in real world
-- 🌱 I’m a master's student
+- 🌱 I’m a master's student in geoinformatics and spatial data science
 - 💞️ I’m looking to collaborate on a new application development for GIS
 - 📫 How to reach me in gmail srinivasgeo0710@gmail.com
 - 😄 Pronouns: Achieve a unit economics in agriculture
