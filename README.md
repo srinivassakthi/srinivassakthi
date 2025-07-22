@@ -15,7 +15,7 @@
 
 - 📍 Route Finder App in Streamlit  
   Geocoding and mapping app using OpenRouteService API and Folium for interactive route display.  
-  🔗 [View Project](https://github.com/srinivassakthi/route-finder-app)
+  🔗 [View Project](https://github.com/srinivassakthi/Route_finder_app).
 
 - 🌐 Geospatial Travel Dashboard 
   Streamlit dashboard integrating weather, routing, buffer zones, and heatmaps for travel analysis.  
