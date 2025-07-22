@@ -35,7 +35,7 @@
 
 - 💼 Investment Advisor Platform  
   Node.js + PostGIS + GeoServer tool for spatial investment recommendations.  
-  🔗 [View Project](https://github.com/Shoaib2020Obaidi/investment_advisor)
+  🔗 [View Project](https://github.com/Shoaib2020Obaidi/investment_advisor).
 
 ---
 
