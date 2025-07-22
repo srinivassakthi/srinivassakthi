@@ -11,7 +11,7 @@
 
 - 🛰️ Tree Loss Assessment in Amazon Forest  
   GIS-based deforestation analysis (2001–2022) using Global Forest Watch and Landsat imagery.  
-  🔗 [View Project](https://github.com/srinivassakthi/tree-loss-assessment)
+  🔗 [View Project](https://github.com/srinivassakthi/Treeloss_Assessment).
 
 - 📍 Route Finder App in Streamlit  
   Geocoding and mapping app using OpenRouteService API and Folium for interactive route display.  
