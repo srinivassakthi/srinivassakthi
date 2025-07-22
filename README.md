@@ -23,15 +23,15 @@
 
 - 📊 R Package: cityPopAnalysis  
   Custom R package for visualizing and analyzing city population distributions using ggplot2.  
-  🔗 [View Project](https://github.com/srinivassakthi/cityPopAnalysis)
+  🔗 [View Project](https://github.com/srinivassakthi/cityPopAnalysis).
 
 - 🧪 Soil Nitrogen Analysis App  
   Shiny app for optimizing nitrogen application in agriculture using spatial analysis and regression.  
-  🔗 [View Project](https://github.com/srinivassakthi/soil-nitrogen-analysis)
+  🔗 [View Project](https://github.com/srinivassakthi/soil-nitrogen-analysis).
 
 - 🗂️ Geo DB Map Tool  
   Web GIS tool with MongoDB backend for drawing, buffering, and exporting spatial data (QGIS-style).  
-  🔗 [View Project](https://github.com/srinivassakthi/geospatial_mongodb)
+  🔗 [View Project](https://github.com/srinivassakthi/Geospatial_mongodb).
 
 - 💼 Investment Advisor Platform  
   Node.js + PostGIS + GeoServer tool for spatial investment recommendations.  
