@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Srinivas SakthiAruna
 
 🎓 I'm a Master's student in Geoinformatics & Spatial Data Science at the University of Münster, Germany.  
-🌍 Passionate about solving real-world challenges using GIS, Remote Sensing and Spatial Analytics.  
+🌍 Focused on the creation of solutions for real-world challenges using GIS, Remote Sensing and Spatial Analytics.  
 🛠️ Skilled in  QGIS, ArcGIS, Python, R, JavaScript, Spatial SQL, and Modern geospatial web development tools.  
-📈 Focused on creating data-driven mapping tools that support sustainable agriculture, urban planning, and climate resilience.
+📈 Dedicated to creating data-driven mapping tools that support sustainable agriculture, urban planning, and climate resilience.
 
 ---
 
